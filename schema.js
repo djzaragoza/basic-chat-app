@@ -12,4 +12,3 @@ const schema = `
 
 module.exports = buildSchema(schema);
 
-
